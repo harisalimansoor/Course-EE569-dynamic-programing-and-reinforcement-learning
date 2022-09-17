@@ -1,2 +1,2 @@
-# Dynamic Programing and REinforcement Learning
+# Dynamic Programing and Reinforcement Learning
 This repo contain code for the subject dynamic programic and reinfrcement learning, offered at Lahore University of Management Sciences (LUMS).  
